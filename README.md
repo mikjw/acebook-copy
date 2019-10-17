@@ -1,6 +1,6 @@
 # AceBook
 
-[![Build Status](https://travis-ci.com/etelish/acebook-Team-Meme.svg?branch=master)](https://travis-ci.com/etelish/acebook-Team-Meme)
+[![Build Status](https://travis-ci.com/mikjw/acebook-copy.svg?branch=master)](https://travis-ci.com/mikjw/acebook-copy)
 
 
 ## Team MEME (Mark, Eithel, Mike, Elsie)
